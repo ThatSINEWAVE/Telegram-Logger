@@ -1,2 +1,5 @@
 # Telegram-Logger
-Simple function that can be copy-pasted into any Python script to add logging to Telegram chats
+
+The function uses Curl to send messages directly to any Telegram channel using Telegram bots.
+
+Remember to replace (YOUR_BOT_KEY) and (YOUR_CHAT_ID) with your actual values.
